@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tim-Zebra
+- 👋 Hi, I’m Tim Zalewski
 - 👀 I’m interested in soccer, puzzles, board/video games
 - 🌱 I’m currently learning Fullstack web development
-- 💞️ I’m looking to collaborate on projects with my peers
-- 📫 How to reach me the best way is via DM
+- 💞️ I look forward to solving exciting puzzles in a collaborative environment
+- 📫 How to reach me the best way is via DM through LinkedIn or GitHub
 
 <!---
 Tim-Zebra/Tim-Zebra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
