@@ -1,3 +1,6 @@
+Checkout my Portfolio here!
+https://tim-zebra.github.io/portfolio/
+
 - 👋 Hi, I’m Tim Zalewski
 - 👀 I’m interested in soccer, puzzles, board/video games
 - 🌱 I’m currently learning Fullstack web development
