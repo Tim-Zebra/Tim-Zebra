@@ -1,5 +1,5 @@
 Checkout my Portfolio here!
-https://tim-zebra.github.io/portfolio/
+https://tim-zebra.github.io/React-Portfolio/
 
 - 👋 Hi, I’m Tim Zalewski
 - 👀 I’m interested in soccer, puzzles, board/video games
