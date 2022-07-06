@@ -7,7 +7,7 @@ Currently Working with:  <br /><br />
 Reall Enjoy Working with: <br /><br />
  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
  <br /><br />
-Worked with: <br /><br />
+Worked with: <br />
 * Languages/TypeScript:<br />
  ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
