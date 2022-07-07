@@ -35,6 +35,7 @@ Worked with: <br />
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - 👋 Hi, I’m Tim Zalewski
+- I obtained the badges from https://github.com/Ileriayo/markdown-badges
 - 👀 I’m interested in soccer, puzzles, board/video games
 - 🌱 I’m currently learning Fullstack web development
 - 💞️ I look forward to solving exciting puzzles in a collaborative environment
