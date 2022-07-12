@@ -4,7 +4,7 @@ https://tim-zebra.github.io/React-Portfolio/
 Currently Working with:  <br /><br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br /><br />
-ReallY Enjoy Working with: <br /><br />
+Really Enjoy Working with: <br /><br />
  ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
  <br /><br />
