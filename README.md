@@ -1,5 +1,5 @@
 Checkout my Portfolio here!
-https://tim-zebra.github.io/React-Portfolio/
+https://tim-zebra.github.io/portfolio/
 
 Currently Working with:  <br /><br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
