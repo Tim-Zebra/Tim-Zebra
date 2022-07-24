@@ -40,7 +40,6 @@ Worked with: <br />
 * Services: <br />
  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - 👋 Hi, I’m Tim Zalewski
 - I obtained the badges from https://github.com/Ileriayo/markdown-badges
