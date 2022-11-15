@@ -2,7 +2,7 @@ Checkout my Portfolio here!
 https://tim-zebra.github.io/portfolio/
 
 Current Focus:  <br /><br />
-Resource optimization and management. Strengthing knowledge of Big O coding solutions/algorithms that accept nth bounds.
+Resource optimization and management. Strengthing knowledge of Big O through coding challenges/algorithms that accept nth bounds.
 <br /><br />
 
 Currently Working with:  <br /><br />
